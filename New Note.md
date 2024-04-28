@@ -1,0 +1,1 @@
+this is an example note that links to [[content/index|index]]
